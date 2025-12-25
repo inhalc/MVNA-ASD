@@ -1,6 +1,0 @@
-mne>=1.6.0
-torch>=2.1.0
-numpy
-scikit-learn
-pandas
-tobii_research
